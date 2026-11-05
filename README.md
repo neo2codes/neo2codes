@@ -8,6 +8,26 @@ no accounts, no servers, no telemetry.
 
 ## Projects
 
+### 🎬 [SubSensei ｜ 字幕老師](https://github.com/neo2codes/subsensei)
+
+[![version](https://img.shields.io/badge/version-1.0.3-green.svg)](https://github.com/neo2codes/subsensei/blob/main/CHANGELOG.md)
+[![languages](https://img.shields.io/badge/languages-14-orange.svg)](https://github.com/neo2codes/subsensei#字幕語言)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/neo2codes/subsensei/blob/main/LICENSE)
+
+The official browser userscript of the **Subtitle Instrumentality Project (SIP)** —
+a subtitle library of **125,014 entries across 14 languages**, built by running
+speech recognition and local GPU translation over hundreds of hours of audio.
+
+Automatic subtitle loading for MissAV, Jable, fs1.app and AV01, with subtitle
+styling, picture adjustment, hotkeys, and a draggable panel. Supports
+Tampermonkey and Safari Userscripts across desktop, iOS and Android.
+
+`JavaScript` · `userscript` · `PocketBase` · `subtitles` · `local-first`
+
+**[➜ Install](https://raw.githubusercontent.com/neo2codes/subsensei/main/dist/subsensei.user.js)**
+
+---
+
 ### 🖼️ [YouTube Mid-Frame Thumbnails](https://github.com/neo2codes/youtube-midframe)
 
 [![version](https://img.shields.io/badge/version-1.2.0-green.svg)](https://github.com/neo2codes/youtube-midframe/blob/main/CHANGELOG.md)
