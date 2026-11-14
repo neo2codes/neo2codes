@@ -12,11 +12,11 @@ no accounts, no servers, no telemetry.
 
 [![version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/neo2codes/subsensei/blob/main/CHANGELOG.md)
 [![languages](https://img.shields.io/badge/languages-14-orange.svg)](https://github.com/neo2codes/subsensei#字幕語言)
-[![subtitles](https://img.shields.io/badge/subtitles-315%2C317-blueviolet.svg)](https://github.com/neo2codes/subsensei/blob/main/PROJECT.md)
+[![subtitles](https://img.shields.io/badge/subtitles-316%2C481-blueviolet.svg)](https://github.com/neo2codes/subsensei/blob/main/PROJECT.md)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/neo2codes/subsensei/blob/main/LICENSE)
 
 The official browser userscript of the **Subtitle Instrumentality Project (SIP)** —
-a subtitle library of **315,317 entries across 14 languages**, built by running
+a subtitle library of **316,481 entries across 14 languages**, built by running
 speech recognition and local GPU translation over hundreds of hours of audio.
 
 Automatic subtitle loading for MissAV, Jable, fs1.app and AV01, with subtitle
